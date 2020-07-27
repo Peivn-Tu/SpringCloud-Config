@@ -1,1 +1,2 @@
-fzp
+config:
+  info:"master branch,SpringCloud-Config/init.yml version1"
